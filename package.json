@@ -1,0 +1,30 @@
+{
+  "name": "local-biz-showcase",
+  "version": "1.0.0",
+  "description": "MEAN stack application",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurphyPicard/theLocalBusinessShowcase-API.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Ara Yaghsizian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MurphyPicard/theLocalBusinessShowcase-API/issues"
+  },
+  "homepage": "https://github.com/MurphyPicard/theLocalBusinessShowcase-API#readme"
+}

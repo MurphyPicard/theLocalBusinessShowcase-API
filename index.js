@@ -1,5 +1,5 @@
-
-
+var hello = require('./eraseme');
+hello.greet("Roza");
 // require("./db/connection.js").open();
 // var express = require('express');
 // var app = express();
